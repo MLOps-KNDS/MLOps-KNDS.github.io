@@ -17,8 +17,6 @@ tags: [tools]
 
 <br><br><br>
 
-## Engine/ML
-
 ![](/assets/images/tech-stack-icons/mlflow.png){: width="120" .left}
 ![](/assets/images/tech-stack-icons/docker.svg){: width="60" .left}
 ![](/assets/images/tech-stack-icons/istio.png){: width="70" .left}
