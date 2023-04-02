@@ -17,15 +17,19 @@ tags: [tools]
 
 <br><br><br>
 
-## ML
+## Engine/ML
 
 ![](/assets/images/tech-stack-icons/mlflow.png){: width="120" .left}
+![](/assets/images/tech-stack-icons/docker.svg){: width="60" .left}
+![](/assets/images/tech-stack-icons/istio.png){: width="70" .left}
+![](/assets/images/tech-stack-icons/argo.png){: width="60" .left}
 
-<br><br>
+<br><br><br>
 
 ## DevOps
 
 ![](/assets/images/tech-stack-icons/kubernetes.svg){: width="60" .left}
+![](/assets/images/tech-stack-icons/helm.png){: width="60" .left}
 ![](/assets/images/tech-stack-icons/docker.svg){: width="60" .left}
 ![](/assets/images/tech-stack-icons/grafana.svg){: width="60" .left}
 ![](/assets/images/tech-stack-icons/terraform.png){: width="60" .left}
