@@ -1,7 +1,7 @@
 ---
 title: Database Model 💾
 date: 2023-04-07 17:00:00 +200
-categories: [onboarding]
+categories: [backend, database]
 tags: [backend, database]
 ---
 
